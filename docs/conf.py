@@ -65,7 +65,7 @@ html_theme_options = {
         "color-brand-content": "#4a86cf",
     },
     "sidebar_hide_name": True,
-    "source_edit_link": "https://github.com/jimmac/docs.granitecode.github.io/edit/main/docs/{filename}",
+    "source_edit_link": "https://github.com/Granite-Code/docs.granitecode.github.io/edit/main/docs/{filename}",
 }
 html_favicon = 'img/favicon.svg'
 html_logo = "img/logo.svg"
