@@ -1,0 +1,4 @@
+sphinx==6.2.*
+furo
+sphinx-autobuild
+myst_parser
