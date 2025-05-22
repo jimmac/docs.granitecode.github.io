@@ -70,7 +70,7 @@ html_favicon = 'img/favicon.svg'
 html_logo = "img/logo.svg"
 
 # Set the explicit title of the HTML output
-html_title = 'Granite.code Documentation'
+html_title = 'Granite.Code Documentation'
 
 # add custom files that are stored in _static
 html_css_files = ['granite.css']
