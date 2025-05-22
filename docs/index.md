@@ -8,12 +8,6 @@ The Granite.Code vscode extension is based on
 [Continue](https://github.com/continuedev/continue),
 but with a number of changes, including:
 
-## License
-
-The code in this repository is licensed under the [Apache 2.0 License](./LICENSE), and Copyright 2025, Red Hat, Inc. and others.
-
-
-
 ```{toctree}
 :hidden:
 introduction.md

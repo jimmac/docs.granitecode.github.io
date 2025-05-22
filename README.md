@@ -1,3 +1,4 @@
-# Granite.code Docs
+# Granite.Code Docs
 
-FIXME
+Granite.code user documentation website. Content is written in Markdown. Static HTML site is generated using Sphinx.
+

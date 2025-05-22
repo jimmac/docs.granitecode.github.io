@@ -17,10 +17,9 @@ sys.path.insert(0, os.path.abspath("./_ext"))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Granite.code Docs'
-copyright = '2025, Allan Day'
+project = 'Granite.Code Docs'
+copyright = 'Red Hat, Inc.'
 author = 'Allan Day'
-
 
 # -- General configuration ---------------------------------------------------
 
